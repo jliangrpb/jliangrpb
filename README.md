@@ -1,6 +1,6 @@
 ### Hi there ✌
 
-I'm an aspiring software engineer with a unique blend of healthcare and technology experiences. As a recent bootcamp graduate, I specialize in web development and am fascinated by technology's transformative potential. My pre-med background instilled precision, attention to detail, and collaboration skills. During my bootcamp at App Academy, I mastered JavaScript, Ruby, React, and more. With hundreds of hours of coding, pair-programming, and portfolio projects, I'm ready to bring innovation and a diverse skill set to software engineering.
+I'm an aspiring software engineer with a unique blend of healthcare and technology experiences. As a recent bootcamp graduate, I specialize in web development and am fascinated by technology's transformative potential. My pre-med background instilled precision, attention to detail, and collaboration skills. 
 
 More about me 😎
 
